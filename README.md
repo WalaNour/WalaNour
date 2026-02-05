@@ -97,7 +97,7 @@
 
 ---
 
-🌐 Check out my portfolio: [www.walanour.com](https://www.walanour.com)
+🌐 Check out my portfolio: [www.walanour.com](https://www.wala-nour.netlify.app)
 
 
 ## 🌱 Currently Focused On
