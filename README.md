@@ -4,8 +4,9 @@
 <p align="center">
   <em>
     I build scalable web applications, lead technical teams, and design intensive learning programs.<br/>
-    Passionate about technology, education, and turning ideas into real products.
-    🌐 Check out my portfolio: [wala-nour](https://www.wala-nour.netlify.app)
+    Passionate about technology, education, and turning ideas into real products.<br/>
+    🌐Check out my live project: [My App](https://wala-nour.netlify.app)
+
   </em>
 </p>
 
