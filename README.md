@@ -5,6 +5,7 @@
   <em>
     I build scalable web applications, lead technical teams, and design intensive learning programs.<br/>
     Passionate about technology, education, and turning ideas into real products.
+    🌐 Check out my portfolio: [wala-nour](https://www.wala-nour.netlify.app)
   </em>
 </p>
 
@@ -96,8 +97,6 @@
 - 📈 PMP Certification
 
 ---
-
-🌐 Check out my portfolio: [www.walanour.com](https://www.wala-nour.netlify.app)
 
 
 ## 🌱 Currently Focused On
