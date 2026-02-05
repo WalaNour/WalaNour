@@ -91,12 +91,14 @@
 
 ## 🎓 Education & Certifications
 
-- 🎓 Bachelor’s Degree in Chemical Studies  
 - 💻 Certified Full Stack JavaScript Developer  
-- 📊 Project Manager (4+ years experience)  
-- 📈 PMP Certification (in progress)
+- 📊 Project Manager
+- 📈 PMP Certification
 
 ---
+
+🌐 Check out my portfolio: [www.walanour.com](https://www.walanour.com)
+
 
 ## 🌱 Currently Focused On
 
