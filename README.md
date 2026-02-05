@@ -5,8 +5,7 @@
   <em>
     I build scalable web applications, lead technical teams, and design intensive learning programs.<br/>
     Passionate about technology, education, and turning ideas into real products.<br/>
-    🌐Check out my live project: [My App](https://wala-nour.netlify.app)
-
+    
   </em>
 </p>
 
@@ -109,13 +108,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wala-nour)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=netlify)](https://wala-nour.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nour_wala/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lolla.nour.12)
+
 
 ---
 
