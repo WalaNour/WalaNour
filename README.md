@@ -5,10 +5,10 @@
   <em>
     I build scalable web applications, lead technical teams, and design intensive learning programs.<br/>
     Passionate about technology, education, and turning ideas into real products.<br/>
-    [![LinkedIn](https://www.linkedin.com/in/wala-nour)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=netlify)](https://wala-nour.netlify.app)
-    [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nour_wala/)
-    [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lolla.nour.12)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wala-nour)  
+    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https:///wala-nour.netlify.app)  
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nour_wala/)  
+
     
   </em>
 </p>
