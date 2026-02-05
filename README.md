@@ -5,6 +5,10 @@
   <em>
     I build scalable web applications, lead technical teams, and design intensive learning programs.<br/>
     Passionate about technology, education, and turning ideas into real products.<br/>
+    [![LinkedIn](https://www.linkedin.com/in/wala-nour)
+    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=netlify)](https://wala-nour.netlify.app)
+    [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nour_wala/)
+    [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lolla.nour.12)
     
   </em>
 </p>
@@ -70,34 +74,6 @@
 
 ---
 
-## 👩‍💼 Professional Experience
-
-### IT Consultant
-- Advising startups on **technical architecture & feature implementation**
-- Supporting MVPs, demos, and early product launches
-- Bridging business needs and technical execution
-
-### Cohort Lead & Technical Mentor
-- Led full-time **JavaScript bootcamps**
-- Designed **12-week intensive full stack curricula**
-- Mentored developers and instructors
-- Ensured technical quality and delivery standards
-
-### Full Stack JavaScript Developer
-- Built full-stack applications with authentication & CRUD
-- REST APIs & cloud integrations
-- Clean, maintainable, production-ready code
-
----
-
-## 🎓 Education & Certifications
-
-- 💻 Certified Full Stack JavaScript Developer  
-- 📊 Project Manager
-- 📈 PMP Certification
-
----
-
 
 ## 🌱 Currently Focused On
 
@@ -105,15 +81,6 @@
 - Startup consulting
 - Scalable learning programs
 - Leadership roles in tech & ed-tech
-
----
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wala-nour)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=netlify)](https://wala-nour.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/nour_wala/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/lolla.nour.12)
 
 
 ---
